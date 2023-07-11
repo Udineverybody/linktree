@@ -56,7 +56,7 @@ window.addEventListener("keydown", function(callback){
             player.moveLeft()
             break
         case "ArrowRight":
-            player.moveRight
+            player.moveRight()
             break
         default:
             break;
